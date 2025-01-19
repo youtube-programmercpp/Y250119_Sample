@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/YahooChieAnswer/Test1Out.txt
+/YahooChieAnswer/Test2Out.txt
+/YahooChieAnswer/Test3Out.txt
